@@ -1,26 +1,26 @@
 nome,sexo,setor,idade,funcao,salario
-ANTONIO,M,administrativo,50,Diretor,15000
-GUSTAVO,M,administrativo,34,assistente,3000
-NORMA,F,administrativo,35,assistente,3000
-QUITERIA,F,artes,46,assistente,6000
-RENATA,F,artes,21,assistente,5000
-SANDRO,M,artes,44,assistente,4000
-VANESSA,F,artes,39,assistente,4000
-MARCOS,M,comercial,21,executivo de contas,3000
-CARLA,F,comercial,31,Gerente ,7000
-DANIELA,F,comercial,29,executivo de contas,3000
-EDUARDO,M,comercial,38,executivo de contas,3000
-PETRO,M,contabilidade,19,assistente,3000
-OTAVIO,M,contabilidade,37,assistente,3000
-BEATRIZ,F,financeiro,32,assistente,2500
-TEODORO,M,financeiro,44,assistente,2500
-ZURIEL,M,financeiro,33,assistente,3000
-FABIA,F,marketing,28,assistente,2500
-UBALDO,M,marketing,46,assistente,2500
-XAVIER,M,marketing,36,Coordenador,3500
-YOLANDA,F,marketing,43,assistente,2500
-HELOISA,F,tecnologia,49,Gerente ,10000
-ISABELLE,F,tecnologia,21,Coordenador,7500
-JOANA,F,tecnologia,23,Engenheiro de Software,5000
-KLAYTON,M,tecnologia,21,assistente,5000
-LAURO,M,tecnologia,46,assistente,5000
+ANTONIO,M,administrativo,26,Diretor,15000
+GUSTAVO,M,administrativo,29,assistente,3000
+NORMA,F,administrativo,49,assistente,3000
+QUITERIA,F,artes,39,assistente,6000
+RENATA,F,artes,39,assistente,5000
+SANDRO,M,artes,48,,4000
+VANESSA,F,artes,29,assistente,4000
+MARCOS,M,comercial,49,executivo de contas,3000
+CARLA,F,comercial,22,Gerente ,7000
+DANIELA,F,comercial,50,executivo de contas,3000
+EDUARDO,M,comercial,34,executivo de contas,3000
+PETRO,M,contabilidade,18,assistente,3000
+OTAVIO,M,contabilidade,47,assistente,3000
+BEATRIZ,F,financeiro,33,assistente,2500
+TEODORO,M,financeiro,38,assistente,2500
+ZURIEL,M,financeiro,20,,3000
+FABIA,F,marketing,49,assistente,2500
+UBALDO,M,marketing,47,assistente,2500
+XAVIER,M,marketing,28,Coordenador,3500
+YOLANDA,F,marketing,27,assistente,2500
+HELOISA,F,tecnologia,43,Gerente ,10000
+ISABELLE,F,tecnologia,28,Coordenador,7500
+JOANA,F,tecnologia,29,Engenheiro de Software,5000
+KLAYTON,M,tecnologia,33,,5000
+LAURO,M,tecnologia,26,Engenheiro de Software,5000
