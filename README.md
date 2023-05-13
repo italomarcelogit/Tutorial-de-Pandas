@@ -1,4 +1,4 @@
-# python-dicas-pandas
+# Tutorial de Pandas
 
 
 ![ScreenShot](img.png)
